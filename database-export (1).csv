@@ -1,0 +1,2 @@
+﻿"Status","Database ID","Database name","Subscription ID","Subscription name","Public endpoint","Private endpoint","Memory limit (MB)","Memory used (MB)","Throughput (Ops/sec)","Modules","Options","Shard type","Shard count","Shard price ($/hr)","Database price ($/hr)"
+"Active","11432266","RedisDB","1943909","database","redis-19295.c300.eu-central-1-1.ec2.cloud.redislabs.com:19295","N/A","30","2.1","N/A","RediSearch Light 2; RedisJSON","N/A","N/A","N/A","N/A","Fixed price"
